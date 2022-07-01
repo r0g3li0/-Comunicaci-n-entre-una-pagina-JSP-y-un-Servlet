@@ -1,0 +1,35 @@
+body
+{
+    background-color: grey;
+}
+
+#container
+{
+    margin: 0 auto;
+    width: 1100px;
+    background:orange;
+       
+}
+
+h2
+{
+   text-align: center;
+   color: black;
+   background-color: ghostwhite;
+}
+table
+{
+    margin: auto;
+    width: 700px;
+    
+    
+}
+th{
+    
+    border-color: black;
+}
+td{
+    font-family: arial;
+    background-color:buttonface;
+}
+
